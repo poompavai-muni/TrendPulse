@@ -1,0 +1,89 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,engagement_rate,score_category,is_popular
+49849985,Revealing the details of how OpenAI agents hacked Hugging Face,Technology,403,244,specked-citrus,10:18.8,0.603960396,1.605459057,High,TRUE
+49853175,"A single function Jev-like wrapper for LLMs, including vision models",Technology,39,2,allanrbo,10:18.8,0.05,1.051282051,Medium,FALSE
+49836579,How I changed teaching after AI managed to do all my homework assignments,Technology,41,8,azhenley,10:18.9,0.19047619,1.195121951,Medium,FALSE
+49823490,A new world airport and its baggage,Technology,8,1,firloop,10:18.9,0.111111111,1.125,Low,FALSE
+49852065,One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days,Technology,153,56,HotGarbage,10:19.0,0.363636364,1.366013072,High,TRUE
+49842409,I wrote a ray tracer in Brainfuck,Technology,62,15,epestr,10:19.1,0.238095238,1.241935484,Medium,FALSE
+49845977,U.S. appeals court upholds designation of Anthropic as supply chain risk,Technology,434,746,cramer4next,10:19.2,1.714942529,2.718894009,High,TRUE
+49844896,Microsoft abandons personal AI chatbot race with Copilot reboot,Technology,115,104,sbulaev,10:19.2,0.896551724,1.904347826,High,FALSE
+49848095,Meta's Muse appears to use an OpenAI model labeled muse-special,Technology,129,47,Aeroi,10:19.5,0.361538462,1.364341085,High,TRUE
+49835531,Using LLMs to trace alchemical knowledge and decode 17th century letters,Technology,166,43,benbreen,10:19.6,0.25748503,1.259036145,High,TRUE
+49850999,FTC chair suggests AI developers should be liable for conduct of agents,Technology,42,11,usernomdeguerre,10:19.6,0.255813953,1.261904762,Medium,FALSE
+49842462,An airport cooled by natural ventilation,Technology,63,37,Geekette,10:19.7,0.578125,1.587301587,Medium,FALSE
+49853177,Evolving programming languages in the AI era,Technology,7,1,ksec,10:19.7,0.125,1.142857143,Low,FALSE
+49851355,OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites,Technology,38,6,jbegley,10:19.8,0.153846154,1.157894737,Medium,FALSE
+49839664,What About Rails?,Technology,313,209,jrochkind1,10:19.8,0.665605096,1.667731629,High,TRUE
+49841605,Tell HN: OpenAI $500 ProMax plan listed in API,Technology,24,29,GustavHartz,10:19.9,1.16,2.208333333,Medium,FALSE
+49833867,Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design,Technology,401,132,sidharthkmenon,10:20.0,0.328358209,1.329177057,High,TRUE
+49817680,Rails World 2026 Opening Keynote [video],Technology,427,479,an0malous,10:20.1,1.119158879,2.121779859,High,TRUE
+49831690,Tutoring company tells parents to save their money and 'use AI instead',Technology,136,223,theanonymousone,10:20.2,1.627737226,2.639705882,High,TRUE
+49836374,Opus 5.5 is good at explainer videos,Technology,411,216,iacguy,10:20.2,0.524271845,1.525547445,High,TRUE
+49829650,'That's so AI ' What gen Alpha's biggest insult tells us,Technology,201,303,YeGoblynQueenne,10:20.3,1.5,2.507462687,High,TRUE
+49846953,"Show HN: Doom or Bloom, map your AI worldview",Technology,56,44,transitivebs,10:20.4,0.771929825,1.785714286,Medium,FALSE
+49826565,Early rogue AI agent activity and attempts to hack found on urlquery.net,Technology,264,304,snikolaev,10:20.6,1.147169811,2.151515152,High,TRUE
+49841563,Dutch governments builds alternative for Microsoft based on NixOS,Worldnews,952,549,fjfaase,10:23.5,0.576075551,1.576680672,High,TRUE
+49829960,Owners mourn spoiled food after firmware update bricks Samsung smart fridges,Worldnews,317,326,nonfamous,10:25.2,1.025157233,2.028391167,High,TRUE
+49847926,Towards GPU Type Inference,Worldnews,7,0,winwang,10:25.6,0,1,Low,FALSE
+49835913,August 27 TCRF DDoS Attack Postmortem,Worldnews,33,14,panic,10:26.4,0.411764706,1.424242424,Medium,FALSE
+49832406,GitHub has not removed malicious imitation software after 3 weeks,Worldnews,271,119,hermitcrab,10:26.5,0.4375,1.439114391,High,TRUE
+49828409,Starlink ground station in Poland hit by fire in suspected arson attack,Worldnews,178,180,giuliomagnifico,10:26.9,1.005586592,2.011235955,High,TRUE
+49811429,Data-only attacks are easier than you think (2024),Worldnews,102,44,segfaultbuserr,10:27.1,0.427184466,1.431372549,High,FALSE
+49811065,Transit rewards,Worldnews,258,345,raybb,10:27.7,1.332046332,2.337209302,High,TRUE
+49794736,Looking forward to Git 2.56 – and 3.0,Worldnews,203,114,chmaynard,10:28.4,0.558823529,1.561576355,High,TRUE
+49845052,Starcraft Brood War self-play RL bot beats strong human [video],Worldnews,12,2,snippyhollow,10:28.9,0.153846154,1.166666667,Medium,FALSE
+49845865,The Age of Personalized Hardware,Worldnews,9,0,arbayi,10:29.2,0,1,Low,FALSE
+49808109,The UV index is not the warm sensation of sunlight on bare skin,Worldnews,98,79,evakhoury,10:29.5,0.797979798,1.806122449,Medium,FALSE
+49836378,DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned,Worldnews,18,0,MBCook,10:29.6,0,1,Medium,FALSE
+49791647,Frontier AI on Your Own Hardware,Worldnews,184,104,pretext,10:29.8,0.562162162,1.565217391,High,TRUE
+49778670,Software sandboxing: The basics (2025),Worldnews,116,24,mococa,10:30.5,0.205128205,1.206896552,High,FALSE
+49826285,"OpenAI agent 'infiltrated' Australian government website, PM says",Worldnews,11,2,Ozymandias-9,10:30.5,0.166666667,1.181818182,Medium,FALSE
+49848495,Zelensky says Russia has widened attacks to hit Ukraine's data centres,Worldnews,94,118,dabinat,10:30.7,1.242105263,2.255319149,Medium,FALSE
+49781693,Why Backprop Goes Backward (2018),Worldnews,70,10,andsoitis,10:30.8,0.14084507,1.142857143,Medium,FALSE
+49777913,Trying the software factory pattern,Worldnews,89,47,gpi,10:31.2,0.522222222,1.528089888,Medium,FALSE
+49786210,The End Of Upward Mobility – AI is coming for the meritocracy,Worldnews,64,44,meep_meep_meep,10:31.3,0.676923077,1.6875,Medium,FALSE
+49810083,"I'm sick of Claudisms, & what will happen next in AI-boosted software dev",Worldnews,19,6,rizsyed1,10:31.4,0.3,1.315789474,Medium,FALSE
+49840085,"September's ozone hole biggest in 20 years, warning signs appeared months ago",Worldnews,5,0,colinprince,10:32.0,0,1,Low,FALSE
+49777121,How video games inspire great UX (2019),Sports,122,17,andsoitis,10:34.3,0.138211382,1.139344262,High,FALSE
+49844642,What happens when you analyze your favorite college football team like the CIA?,Sports,53,30,adam,10:34.4,0.555555556,1.566037736,Medium,FALSE
+49851776,Show HN: A game about fake news and memes,Sports,14,10,azermite,10:34.4,0.666666667,1.714285714,Medium,FALSE
+49836590,The Board Game of the Alpha Nerds (2014),Sports,114,61,neonate,10:35.0,0.530434783,1.535087719,High,FALSE
+49849406,Time Measurement in Game Programming,Sports,6,0,ibobev,10:35.0,0,1,Low,FALSE
+49829387,Hackers influence ChatGPT and Gemini to direct users to scam centers,Sports,141,52,ArielSimon,10:38.0,0.366197183,1.368794326,High,TRUE
+49778022,Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++,Sports,140,99,metrofun,10:39.6,0.70212766,1.707142857,High,TRUE
+49829202,Modern Object Pascal Introduction for Programmers – Castle Game Engine,Sports,8,1,birdculture,10:39.9,0.111111111,1.125,Low,FALSE
+49789356,Show HN: Foremerge – Catch intent conflicts between parallel coding agents,Sports,45,20,naw103,10:40.9,0.434782609,1.444444444,Medium,FALSE
+49791296,Show HN: Conway's Game of Life in boot sector,Sports,27,4,0xAX,10:41.7,0.142857143,1.148148148,Medium,FALSE
+49835866,Ask HN: Any nerds out there who've read a lot of research papers?,Science,23,21,shriy-singh,10:45.4,0.875,1.913043478,Medium,FALSE
+49830606,Google’s Project Suncatcher to put ML infrastructure in space,Science,227,516,xnx,10:46.2,2.263157895,3.273127753,High,TRUE
+49839438,"Biology might not be quantum, but its math is quantumlike",Science,9,3,pseudolus,10:48.6,0.3,1.333333333,Low,FALSE
+49824969,FLAWED's Flaws and What This Means for Industry Research,Science,24,4,tob_scott_a,10:49.7,0.16,1.166666667,Medium,FALSE
+49847975,Sham scientific societies are misleading star researchers,Science,6,0,sbulaev,10:50.2,0,1,Low,FALSE
+49791939,NASA’s Mars Sample Return mission is dead,Science,454,390,Muhammad523,10:51.0,0.857142857,1.859030837,High,TRUE
+49788220,A study of sequence weighting at scale,Science,15,1,pranitha_m,10:51.4,0.0625,1.066666667,Medium,FALSE
+49827376,"Nuros – AI study tools from notes, PDFs, videos, and links",Science,8,0,AntoineValton,10:51.7,0,1,Low,FALSE
+49845172,Show HN: Jev Plays Pokémon Red,Entertainment,186,79,pancomplex,10:54.7,0.422459893,1.424731183,High,TRUE
+49852302,Jury finds Facebook liable for deceiving users in Cambridge Analytica case,Entertainment,181,34,pseudolus,10:54.7,0.186813187,1.187845304,High,TRUE
+49844497,Show HN: Hacker Atlas - A map of what Hacker News talks about,Entertainment,46,12,andrearitossa,10:54.8,0.255319149,1.260869565,Medium,FALSE
+49788014,Show HN: Make math automatic with Mathy,Entertainment,90,25,gmays,10:55.0,0.274725275,1.277777778,Medium,FALSE
+49849986,Show HN: Ekselio – Loveable for finance workflows (local first),Entertainment,14,2,kdautaj,10:55.0,0.133333333,1.142857143,Medium,FALSE
+49846409,Show HN: I discovered roads in the US across > 1000 themes,Entertainment,12,6,91awebsi,10:55.2,0.461538462,1.5,Medium,FALSE
+49787759,"Book review: Is parallel programming hard, and, if so, what can you do about it?",Entertainment,146,62,ahelwer,10:55.4,0.421768707,1.424657534,High,TRUE
+49850553,Show HN: Recurse – Develop and deploy specialist agents faster,Entertainment,5,1,ozankabak,10:55.5,0.166666667,1.2,Low,FALSE
+49823332,Show HN: Jevgpt – reinventing the wheel with another wheel,Entertainment,20,1,kunggaochicken,10:55.5,0.047619048,1.05,Medium,FALSE
+49827375,Show HN: Air-gapped file encryption as self-decrypting HTML page,Entertainment,84,30,emurlin,10:56.0,0.352941176,1.357142857,Medium,FALSE
+49837006,Show HN: Koi.rest – watch some fish and regain your balance,Entertainment,215,60,hxii,10:56.1,0.277777778,1.279069767,High,TRUE
+49843909,"Show HN: Hamilton – a no-internet Android health dashboard, named after my dog",Entertainment,10,12,hamilton_app,10:56.2,1.090909091,2.2,Medium,FALSE
+49821438,Show HN: AgentRun: DSL to turn agents into workflows,Entertainment,46,12,miguelrios,10:56.3,0.255319149,1.260869565,Medium,FALSE
+49842596,Show HN: Agentic CUDA Kernel Optimizer,Entertainment,32,11,bertaye,10:56.4,0.333333333,1.34375,Medium,FALSE
+49848598,Show HN: Paper-docx – agent-native Python-docx fork with 78% fewer DOCX failures,Entertainment,6,0,i_rush_carriers,10:56.4,0,1,Low,FALSE
+49804359,Show HN: Treepeat – Code similarity detection using Tree-sitter,Entertainment,65,8,91awebsi,10:56.4,0.121212121,1.123076923,Medium,FALSE
+49823738,Show HN: Make cursed fonts like Times New Bastard,Entertainment,847,123,MitPitt,10:56.5,0.14504717,1.145218418,High,TRUE
+49846121,Meta bans another Toronto performer from Instagram and Facebook over Bikini,Entertainment,37,5,bhouston,10:56.7,0.131578947,1.135135135,Medium,FALSE
+49845952,Classified estimates show the NSA is paying billions to test AI models,Entertainment,171,101,rdmuser,10:56.9,0.587209302,1.590643275,High,TRUE
+49793249,Women Who Sold Books Door to Door,Entertainment,67,9,herbertl,10:57.0,0.132352941,1.134328358,Medium,FALSE
+49832080,Show HN: Most Hated Tools,Entertainment,29,20,leonagano,10:57.5,0.666666667,1.689655172,Medium,FALSE
+49839672,"Show HN: Avoid smooth spinners, use low-FPS spinners",Entertainment,21,27,nh2,10:57.6,1.227272727,2.285714286,Medium,FALSE
+49801329,Show HN: Drop – A rootless Linux sandbox with gVisor support,Entertainment,189,63,mixedbit,10:58.0,0.331578947,1.333333333,High,TRUE
+49800574,"Show HN: JevBench, a reproducible benchmark for typed decision models",Entertainment,147,37,florianstandhar,10:58.1,0.25,1.25170068,High,TRUE
+49831456,Japanese used bookstores see 5x sales surge as books are being bought by the ton,Entertainment,90,127,speckx,10:58.4,1.395604396,2.411111111,Medium,FALSE
